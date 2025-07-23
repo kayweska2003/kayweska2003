@@ -28,9 +28,8 @@ Because I’ve got a vision: **use technology to reshape my world and elevate ot
 ### 📫 Wanna connect?
 Let’s build, brainstorm, or blow minds together:
 
-- 📧 [Your email or LinkedIn here]
+- 📧 kairabgersain@gmail.com / 
 - 🔗 [Your portfolio or website]
-
 ---
 
 **P.S.** If you're reading this, you're now part of the journey. Buckle up — I'm just getting started.
