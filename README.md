@@ -24,9 +24,7 @@ Hey there! I'm Kairab — a **Computer Intelligence Engineering** student at the
 Because I’ve got a vision: **use technology to reshape my world and elevate others along the way**. This isn’t a random journey — it’s a mission. Between wild ideas, sleepless nights, and failing forward, I’m building something far beyond code.
 
 > _"If you're going to do something, make it legendary."_ — Me, writing this README at 3 AM.
-
 ---
-
 ### 📫 Wanna connect?
 Let’s build, brainstorm, or blow minds together:
 
