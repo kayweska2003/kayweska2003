@@ -16,6 +16,7 @@ Hey there! I'm Kairab — a **Computer Intelligence Engineering** student at the
 - HTML5 / CSS3 / Tailwind
 - MongoDB / Firebase
 
+
 ### 🧪 Projects in progress:
 - 🛠️ **Dream App** — A project blending frontend, REST APIs, and a whole lot of visual sorcery.
 - 🧠 **AI personal experiments** — Mixing theory, curiosity, and code to create stuff that borders on wizardry.
