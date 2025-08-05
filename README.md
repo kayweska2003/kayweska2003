@@ -7,7 +7,6 @@ Hey there! I'm Kairab — a **Computer Intelligence Engineering** student at the
 - 🧠 Deep-diving into AI, computer vision, game theory, and intelligent systems.
 - ⚔️ Gearing up for fullstack battle — one deploy at a time.
 
-
 ### 🧩 My favorite tools:
 - JavaScript / Node.js
 - Python
