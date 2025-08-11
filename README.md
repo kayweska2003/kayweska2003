@@ -2,7 +2,6 @@
 
 Hey there! I'm Kairab — a **Computer Intelligence Engineering** student at the **University of Colima**, and I'm not here to play it safe. I'm here to break patterns, write code that slaps, and build ideas that **actually mean something**.
 
-
 ### 🚀 What am I up to?
 - 🔥 Taking the **JavaScript course by Fireship** — where the content is fast, sharp, and hot enough to burn.
 - 🧠 Deep-diving into AI, computer vision, game theory, and intelligent systems.
